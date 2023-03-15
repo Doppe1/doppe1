@@ -1,0 +1,2 @@
+-Industrial engineer
+-Jr. Developer
