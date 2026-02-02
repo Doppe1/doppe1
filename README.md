@@ -1,3 +1,3 @@
 -Industrial engineer 
--Jr. Developer
+-Developer
 -Animals Lover
